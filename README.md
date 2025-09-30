@@ -52,12 +52,12 @@ Para ejecutar:
 1. Abre la **terminal integrada** en Codespaces: menú *Terminal → New Terminal*.  
 2. Compila el archivo con:  
    ```bash
-   javac ej03.java
+   javac prueba.java
    ```  
    Esto genera un archivo `ej03.class`.  
 3. Ejecuta el programa con:  
    ```bash
-   java ej03
+   java prueba
    ```  
 
 ⚠️ Importante: cuando ejecutes, **no pongas la extensión `.java` o `.class`**, solo el nombre de la clase.  
