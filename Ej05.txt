@@ -1,0 +1,8 @@
+NOMBRES VALIDOS
+preciototal
+_curso
+Nombre 
+
+NOMBRES NO VALIDOS
+while
+2curso
