@@ -1,0 +1,4 @@
+Los nombres validos en camel Case serian:
+-numeroPrimero
+-alumnoClase
+-jefeDepartamento
