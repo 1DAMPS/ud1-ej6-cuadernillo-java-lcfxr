@@ -1,2 +1,0 @@
-NOMBRE CLASE: EjercicioPrimero
-NOMBRE METODO: numeroPrimero
