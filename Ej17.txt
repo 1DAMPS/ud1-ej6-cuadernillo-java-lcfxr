@@ -1,0 +1,1 @@
+Si no elegimos los datos bien se produce un desbordamiento de memoria. Yo en comodidad suelo usar int o double porque si no darian incorrectos los datos. 
